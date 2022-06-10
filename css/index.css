@@ -6,7 +6,7 @@
 }
 
 body{
- width: 425px;
+ max-width: 425px;
  background-image: url("../img/background.jpg");
 }
 
@@ -199,7 +199,7 @@ footer img{
 
 @media (min-width:426px) and (max-width:1919px){
     body{
-       width:100%;
+       max-width: 1920px;
     }
 
     header{
@@ -327,7 +327,7 @@ footer img{
 
 @media (min-width:1920px){
     body{
-       width:100%;
+       max-width:3000px;
     }
 
     header{
@@ -385,7 +385,7 @@ footer img{
         width: 500px;
         height: 100px;
         bottom: 150px;
-        right: 1000px;
+        right: 800px;
         padding: 20px;
         border-radius: 20px;
     }
