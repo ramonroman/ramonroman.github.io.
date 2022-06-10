@@ -197,7 +197,7 @@ footer img{
     margin-bottom: 20px;
 }
 
-@media (min-width:426px) and (max-width:1919px){
+@media (min-width:426px) and (max-width:1920px){
     body{
        max-width: 1920px;
     }
@@ -373,22 +373,7 @@ footer img{
         width: 100%;
     }
 
-    #about{
-        display: block;
-        color: black;
-        position: relative;
-        text-align: center;
-        font-weight: bold;
-        background-color: aliceblue;
-        flex-wrap: wrap;
-        border: 5px solid black;
-        width: 500px;
-        height: 100px;
-        bottom: 150px;
-        right: 500px;
-        padding: 20px;
-        border-radius: 20px;
-    }
+
 
     main {
         display: flex;
