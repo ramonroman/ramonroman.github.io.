@@ -206,6 +206,7 @@ footer img{
         flex-direction: row;
         justify-content: space-around;
         width: 100%;
+        height: 100px;
     }
 
     header img{
@@ -385,7 +386,7 @@ footer img{
         width: 500px;
         height: 100px;
         bottom: 150px;
-        right: 600px;
+        right: 950px;
         padding: 20px;
         border-radius: 20px;
     }
